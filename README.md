@@ -9,4 +9,4 @@
       0~99を入力した上で送信ボタンを押すと座席表示の画面上で、入力した番号と対応する席の背景が変化する。
       
      　アプリのURLは以下の通りである。
-      https://mochiyuuki.github.io/jig_intern/
+      https://mochiyuuki.github.io/Seat-location-display-app/
